@@ -1,0 +1,407 @@
+@charset "utf-8";
+#cuerpo {
+    height: 1586px;
+    width: 100%;
+    max-width: 1330px;
+    background-color: rgba(255,255,255,1.00);
+}
+#contenido {
+    background-color: #FFFFFF;
+    height: 89px;
+    width:100%;
+    max-width:  1330px;
+    float: left;
+}
+#barra_1 {
+    background-color: #262626;
+    height: 29px;
+    width: 100%;
+    max-width: 1330px;
+}
+
+#sesion {
+    background-color: #262626;
+    height: 29px;
+    width: 70%;
+    max-width: 240px;
+    float: right;
+    text-align: left;
+}
+#sesion a {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: #FFFFFF;
+    font-size: 11px;
+    text-decoration: none;
+    padding-left: 15px;
+}
+#sesion a:hover {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: #ff571c;
+    font-size: 11px;
+    text-decoration: underline;
+}
+    
+}
+#barra_2 {
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    max-width: 1330px;
+    margin-bottom: 30px;
+}
+#logo {
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 265px;
+    float: left;
+}
+#menu {
+     height: 60px;
+    width: 60%;
+    max-width: 1064px;
+    background-color: #FFFFFF;
+    float: right;
+    margin-right: 10px;
+}
+
+#publicidad {
+    height: 66px;
+    width: 100%;
+    max-width: 1330px;
+    float: left;
+    margin-bottom: 30px;
+    background-color: rgba(255,255,255,1.00);
+    background-image: url(../images/encabezado.png);
+}
+#publicidad a {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: #fc5927;
+    font-size: 20px;
+    text-decoration: none;
+}
+#publicidad a:hover{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color:#585858;
+    font-size: 20px;
+    text-decoration: underline;
+}
+#banner_1 {
+    height: 398px;
+    width: 1251px;
+    float: left;
+    margin-left: 39px;
+}
+#banner_nosotros {
+    height: 160px;
+    width: 1251px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 39px;
+    background-color: #F1F1F1;
+}
+#banner_ubicanos {
+    height: 672px;
+    width: 1251px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 39px;
+}
+#banner_ubicanos_1 {
+    height: 563px;
+    width: 504px;
+    float: left;
+    margin-bottom: 30px;
+    background-color: #F4F4F4;
+}
+#banner_ubicanos_2 {
+    height: 419px;
+    width: 390px;
+    float: left;
+    margin-bottom: 30px;
+    margin-top: 252px;
+    margin-left: 28px;
+}
+#banner_ubicanos_texto {
+    height: 419px;
+    width: 300px;
+    float: right;
+    margin-bottom: 30px;
+    margin-top: 252px;
+}
+#cintillo_1 {
+    height: 12px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+}
+#banner_contactos {
+    height: 104px;
+    width: 1224px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 53px;
+}
+#banner_contactos_1 {
+    height: 104px;
+    width: 287px;
+    float: left;
+    margin-bottom: 30px;    
+}
+#banner_contactos_2 {
+    height: 104px;
+    width: 287px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+#banner_contactos_3 {
+    height: 104px;
+    width: 287px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 25px;
+}
+#banner_contactos_4 {
+    height: 104px;
+    width: 287px;
+    float: right;
+    margin-bottom: 30px;    
+}
+#cintillo_2 {
+    height: 30px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+    background-repeat: no-repeat;
+    background-color: #F1F1F1;
+    margin-left: 39px;
+}
+#cintillo2-2 a{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color: #000000;
+    text-align: left;
+    text-decoration: none;
+}
+
+#cintillo2-2 a:hover{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color: #ff571c;
+    text-align: left;
+    text-decoration: underline;
+    text-align: left;
+}
+#publicidad_1 {
+    height: 188px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 39px;
+}
+#cintillo_3 {
+    height: 12px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+#cintillo_pie {
+    height: 18px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 39px;
+    color: #000000;
+}
+#cintillo_pie a {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: #262626;
+    font-size: 19px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+#cintillo_pie a:hover{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color:#fc5927;
+    font-size: 19px; 
+    margin-left: 30px;
+    text-decoration: underline;
+}
+
+#cintillo_mas {
+    height: 28px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+}
+#cintillo_footer {
+    background-color: #262626;
+    height: 183px;
+    width: 100%;
+    max-width:  1330px;
+    float: left;
+}
+#texto {
+     height: 110px;
+    width: 40%;
+    max-width:  560px;
+    background-color: #262626;
+    float: left;
+    color: rgba(255,255,255,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 0px;
+}
+
+#correo {
+    background-color: #262626;
+    height: 73px;
+    width: 50%;
+    max-width: 560px;
+    float: left;
+    background-image: url(url);
+}
+#cintillo_footer #texto h1 {
+    font-size: 23px;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#cintillo_footer #texto h2 {
+    font-size: 13px;
+    text-align: left;
+    margin-left: 15px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+
+
+#social {
+    background-color: #262626;
+    height: 110px;
+    width: 60%;
+    max-width: 770px;
+    float: right;
+    color: rgba(255,255,255,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+#social img{
+    margin-left: -16px;
+    margin-right: 15px;
+    padding-left: 0px;
+    float: right;
+}
+#correo_2 {
+   background-color: #262626;
+    height: 73px;
+    width: 50%;
+    max-width:  770px;
+    color: rgba(255,255,255,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    float: right;
+}
+#llenado {
+    background-color: #262626;
+    height: 40px;
+    width: 100%;
+    max-width: 400px;
+    background-image: url(../images/correo.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    float: left;
+    margin-left: 15px;
+    text-align: right;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-top: 11px;
+}
+#cintillo_footer #social p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 23px;
+    text-align: right;
+    margin-right: 15px;
+    margin-top: 24px;
+}
+
+
+#cintillo_footer #correo_2 p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+#barra_1 #sesion p {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    margin-top: 6px;
+}
+#contenido #publicidad p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    margin-bottom: -1px;
+    margin-top: 4px;
+}
+#contenido #publicidad h5 {
+    color: #FC5927;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+#cintillo2-2 {
+    height: 30px;
+    width: 626px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000000;
+    float: left;
+    padding-left: 0px;
+    margin-top: 4px;
+    text-align: left;
+    margin-left: 13px;
+}
+#cintillo2-3 {
+    float: right;
+    height: 30px;
+    width: 400px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000000;
+    text-align: right;
+    margin-right: 13px;
+    margin-top: 4px;
+}
+#cintillo2-3 a{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color: #000000;
+    text-align: left;
+    text-decoration: none;
+}
+
+#cintillo2-3 a:hover{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color: #ff571c;
+    text-align: left;
+    text-decoration: underline;
+    text-align: left;
+}
+#contenido #banner_nosotros h1 {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    margin-top: 10px;
+}
+#contenido #banner_nosotros p {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-top: -31px;
+}
+#banner_ubicanos #banner_ubicanos_texto h1 {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 29px;
+    margin-top: 100px;
+}
+#banner_ubicanos #banner_ubicanos_texto p {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-top: -26px;
+}

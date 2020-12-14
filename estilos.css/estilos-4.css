@@ -1,0 +1,508 @@
+@charset "utf-8";
+#cuerpo {
+    height: 1586px;
+    width: 100%;
+    max-width: 1330px;
+    background-color: rgba(255,255,255,1.00);
+}
+#contenido {
+    background-color: #FFFFFF;
+    height: 89px;
+    width:100%;
+    max-width:  1330px;
+    float: left;
+}
+#barra_1 {
+    background-color: #262626;
+    height: 29px;
+    width: 100%;
+    max-width: 1330px;
+}
+
+#sesion {
+    background-color: #262626;
+    height: 29px;
+    width: 70%;
+    max-width: 240px;
+    float: right;
+    text-align: left;
+}
+#sesion a {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: #FFFFFF;
+    font-size: 11px;
+    text-decoration: none;
+    text-align: left;
+    padding-left: 15px;
+}
+#sesion a:hover {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: #ff571c;
+    font-size: 11px;
+    text-decoration: underline;
+    text-align: left;
+    padding-left: 15px;
+}
+    
+}
+#barra_2 {
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    max-width: 1330px;
+    margin-bottom: 30px;
+}
+#logo {
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 265px;
+    float: left;
+}
+#menu {
+    height: 60px;
+    width: 60%;
+    max-width: 1064px;
+    background-color: #FFFFFF;
+    float: right;
+    margin-right: 10px;
+}
+
+
+#publicidad {
+    height: 66px;
+    width: 100%;
+    max-width: 1330px;
+    float: left;
+    margin-bottom: 30px;
+    background-color: rgba(255,255,255,1.00);
+    background-image: url(../images/encabezado.png);
+}
+#publicidad a {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: #fc5927;
+    font-size: 20px;
+    text-decoration: none;
+}
+#publicidad a:hover{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color:#585858;
+    font-size: 20px;
+    text-decoration: underline;
+}
+#banner_1 {
+    height: 376px;
+    width: 1252px;
+    float: left;
+    margin-left: 39px;
+}
+#banner_publicidad_1 {
+    height: 376px;
+    width: 600px;
+    float: left;
+}
+#banner_publicidad_2 {
+    height: 376px;
+    width: 600px;
+    float: right;
+}
+#banner_publicidad_1_texto {
+    height: 175px;
+    width: 600px;
+    float: left;
+    background-color: #F7F7F7;
+}
+#banner_publicidad_1_boton {
+    height: 43px;
+    width: 600px;
+    float: left;
+    margin-top: 30px;
+    padding-left: 390px;
+}
+#banner_publicidad_2_boton {
+    height: 43px;
+    width: 600px;
+    float: left;
+    margin-top: 30px;
+    padding-left: 390px;
+}
+#banner_publicidad_2_texto {
+    height: 175px;
+    width: 600px;
+    float: right;
+    background-color: #F7F7F7;
+}
+#publicidad_texto {
+    height: 175px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 39px;
+}
+#publicidad_tablas_cintillo {
+    height: 36px;
+    width: 1230px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+#publicidad_tablas {
+    height: 353px;
+    width: 1230px;
+    float: left;
+    margin-left: 50px;
+}
+#publicidad_tablas_patineta_1 {
+    height: 353px;
+    width: 391px;
+    float: left;
+    background-color: rgba(255,0,3,1.00);
+}
+#publicidad_tablas_patineta_2 {
+    height: 353px;
+    width: 391px;
+    float: left;
+    background-color: rgba(111,82,255,1.00);
+    margin-left: 28px;
+}
+#publicidad_tablas_patineta_3 {
+    height: 353px;
+    width: 391px;
+    float: right;
+    background-color: rgba(248,255,0,1.00);
+}
+#publicidad_tablas_texto {
+    height: 154px;
+    width: 1230px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+#publicidad_tablas_texto_1_boton {
+    height: 28px;
+    width: 393px;
+    float: left;
+    margin-top: 20px;
+}
+#publicidad_tablas_texto_2_boton {
+    height: 28px;
+    width: 393px;
+    float: left;
+    margin-top: 15px;
+}
+#publicidad_tablas_texto_3_boton {
+    height: 28px;
+    width: 393px;
+    float: left;
+    margin-top: 15px;
+}
+#publicidad_tablas_texto_1 {
+    height: 154px;
+    width: 391px;
+    float: left;
+    margin-bottom: 30px;
+    background-color: #F7F7F7;
+}
+#publicidad_tablas_texto_2 {
+    height: 154px;
+    width: 391px;
+    float: left;
+    margin-bottom: 30px;
+    background-color: #F7F7F7;
+    margin-left: 28px;
+}
+#publicidad_tablas_texto_3 {
+    height: 154px;
+    width: 391px;
+    float: right;
+    margin-bottom: 30px;
+    background-color: #F7F7F7;
+}
+#publicidad_tablas_video {
+    height: 454px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 39px;
+}
+#publicidad_tablas_video_1 {
+    height: 454px;
+    width: 822px;
+    float: left;
+    margin-bottom: 30px;
+    background-color: #C70A16;
+}
+#publicidad_tablas_video_2 {
+    height: 454px;
+    width: 404px;
+    float: right;
+    margin-bottom: 30px;
+    background-color: #B3B3B3;
+}
+#publicidad_tablas_descuento {
+    height: 186px;
+    width: 1230px;
+    float: left;
+    margin-bottom: 30px;
+    background-color: coral;
+    margin-left: 50px;
+}
+#cintillo_1 {
+    height: 12px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+}
+#cintillo_2 {
+    height: 30px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+    background-repeat: no-repeat;
+    background-color: #FFFFFF;
+}
+#publicidad_1 {
+    height: 188px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 39px;
+}
+#cintillo_3 {
+    height: 12px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+#cintillo_pie {
+    height: 18px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 39px;
+    color: #000000;
+}
+#cintillo_pie a {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color: #262626;
+    font-size: 19px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+#cintillo_pie a:hover{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    color:#fc5927;
+    font-size: 19px; 
+    margin-left: 30px;
+    text-decoration: underline;
+}
+
+#cintillo_mas {
+    height: 28px;
+    width: 1252px;
+    float: left;
+    margin-bottom: 30px;
+}
+#cintillo_footer {
+   background-color: #262626;
+    height: 183px;
+    width: 100%;
+    max-width:  1330px;
+    float: left;
+}
+#texto {
+    height: 110px;
+    width: 40%;
+    max-width:  560px;
+    background-color: #262626;
+    float: left;
+    color: rgba(255,255,255,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 0px;
+}
+
+#correo {
+    background-color: #262626;
+    height: 73px;
+    width: 50%;
+    max-width: 560px;
+    float: left;
+    background-image: url(url);
+}
+#cintillo_footer #texto h1 {
+    font-size: 23px;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#cintillo_footer #texto h2 {
+    font-size: 13px;
+    text-align: left;
+    margin-left: 15px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+
+
+#social {
+   background-color: #262626;
+    height: 110px;
+    width: 60%;
+    max-width: 770px;
+    float: right;
+    color: rgba(255,255,255,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+#social img{
+    margin-left: -16px;
+    margin-right: 15px;
+    padding-left: 0px;
+    float: right;
+}
+#correo_2 {
+   background-color: #262626;
+    height: 73px;
+    width: 50%;
+    max-width:  770px;
+    color: rgba(255,255,255,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    float: right;
+}
+#llenado {
+    background-color: #262626;
+    height: 40px;
+    width: 100%;
+    max-width: 400px;
+    background-image: url(../images/correo.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    float: left;
+    margin-left: 15px;
+    text-align: right;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-top: 11px;
+}
+#cintillo_footer #social p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 23px;
+    text-align: right;
+    margin-right: 15px;
+    margin-top: 24px;
+}
+
+
+#cintillo_footer #correo_2 p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+#barra_1 #sesion p {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    margin-top: 6px;
+}
+#contenido #publicidad p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    margin-bottom: -1px;
+    margin-top: 4px;
+}
+#contenido #publicidad h5 {
+    color: #FC5927;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+#publicidad_texto #banner_publicidad_1_texto h5 {
+    margin-top: 8px;
+    text-align: left;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FC5927;
+    font-size: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#publicidad_texto #banner_publicidad_1_texto p {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    margin-top: -22px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#publicidad_texto #banner_publicidad_2_texto h5 {
+    text-align: left;
+    color: #FC5927;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    margin-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#publicidad_texto #banner_publicidad_2_texto p {
+    text-align: left;
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#contenido #publicidad_tablas_cintillo p {
+    text-align: left;
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+}
+#publicidad_tablas_texto #publicidad_tablas_texto_1 p {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+#publicidad_tablas_texto #publicidad_tablas_texto_2 h1 {
+    color: #FC5927;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-top: -15px;
+    margin-bottom: -25px;
+}
+
+
+#publicidad_tablas_texto #publicidad_tablas_texto_3 h1 {
+    color: #FC5927;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-top: -15px;
+    margin-bottom: -25px;
+}
+#publicidad_tablas_texto #publicidad_tablas_texto_1 h1 {
+    color: #FC5927;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-top: -15px;
+    margin-bottom: -25px;
+}
+
+
+
+
+
+
+@media (max-width:480px){
+
+
+
+
+}
+
+@media (min-width:481px) and (max-width:780px){
+}
+
+@media (min-width:781px) and (max-width:1200px){
+}
+
+@media (min-width:1201px) and (max-width:1380px){
+}
